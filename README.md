@@ -84,33 +84,6 @@ The API provides the following endpoints:
 - **Flask:** A microframework for web development.
 - **jsonify:** A Flask function to convert data to JSON format.
 - **request:** A Flask object to access incoming request data.
-
-## How to Run
-
-1. **Clone the repository:**
-
-   ```bash
-   git clone [https://github.com/](https://github.com/)<your-username>/<your-repository-name>.git
-Navigate to the project directory:
-
-Bash
-
-cd <your-repository-name>
-Install 1  dependencies:   
-1.
-github.com
-github.com
-
-Bash
-
-pip install Flask
-Run the API:
-
-Bash
-
-python app.py
-The API will be accessible at http://localhost:5000.
-
 How to Use
 You can interact with the API using tools like Postman or Insomnia.
 
